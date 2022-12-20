@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:practica_flutter/screens/pageMainScreen.dart';
 import 'package:practica_flutter/screens/pageSecondScreen.dart';
+import 'package:practica_flutter/screens/pageThirdScreen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -55,7 +56,7 @@ class _NavigationExampleState extends State<NavigationExample> {
       body: <Widget>[
         const MyMainPage(),
         const PageSecond(),
-        const PageSecond(),
+        const VideoPlayerScreen(),
       ][currentPageIndex],
     );
   }
