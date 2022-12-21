@@ -89,33 +89,9 @@ class _LoginInState extends State<LoginIn> {
     return Scaffold(
       body: Container(
         child: _isLoggedIn
-            ? Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          crossAxisAlignment: CrossAxisAlignment.center,
-          children: [
-              Image.network(_userObj.photoUrl!),
-              const SizedBox(height: 20,),
-              Text(_userObj.displayName!),
-              const SizedBox(height: 20,),
-              Text(_userObj.email),
-              const SizedBox(height: 20,),
-              MaterialButton(
-                onPressed: () {
-                  _googleSignIn.signOut().then((value) {
-                    setState(() {
-                      _isLoggedIn = false;
-                    });
-                  }).catchError((e) {});
-                },
-                height: 50,
-                minWidth: 100,
-                color: Colors.red,
-                child: const Text('Logout',style: TextStyle(color: Colors.white),),
-              )
-          ],
-        ),
-        ) : Center(
+            ? const Center(
+              child: NavigationExample(),
+            ) : Center(
           child: MaterialButton(
             onPressed: () {
               _googleSignIn.signIn().then((userData) {
@@ -137,3 +113,4 @@ class _LoginInState extends State<LoginIn> {
     );
   }
 }
+
