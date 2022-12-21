@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "403167008586",
+    "project_id": "demoroyer",
+    "storage_bucket": "demoroyer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403167008586:android:79e755ce6661b3df95d3b3",
+        "android_client_info": {
+          "package_name": "com.example.practica_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403167008586-ujofks97jd2e6idcorb01b6bh70g0bbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.practica_flutter",
+            "certificate_hash": "1c8697758d59085583470b72426e0c7a61fe43ae"
+          }
+        },
+        {
+          "client_id": "403167008586-c9idp06d46aagncaekpt7iadhj42phef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlhIPBRRUpGNOGfyDaO4XXfY6SZex53XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403167008586-c9idp06d46aagncaekpt7iadhj42phef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
