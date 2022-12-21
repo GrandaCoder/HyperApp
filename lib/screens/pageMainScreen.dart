@@ -22,27 +22,15 @@ Widget _informacionUsuario() {
     child: Column(
       mainAxisAlignment: MainAxisAlignment.center,
       crossAxisAlignment: CrossAxisAlignment.center,
-      children: [
+      children: const [
        // Image.network(),
-        const SizedBox(
+        SizedBox(
           height: 20,
         ),
         Text("Bienvenido"),
-        const SizedBox(
+        SizedBox(
           height: 20,
         ),
-        MaterialButton(
-          onPressed: () {
-            print("Pa fuera");
-          },
-          height: 50,
-          minWidth: 100,
-          color: Colors.red,
-          child: const Text(
-            'Logout',
-            style: TextStyle(color: Colors.white),
-          ),
-        )
       ],
     ),
   );
