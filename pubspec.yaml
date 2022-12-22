@@ -33,7 +33,7 @@ dependencies:
   video_player:
   firebase_core: ^2.4.0
   google_sign_in: ^5.4.2
-  loading: ^1.0.2
+ 
 
 
   # The following adds the Cupertino Icons font to your application.
