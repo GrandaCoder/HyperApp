@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>156364345285-sq3lg3tpqfn2s47qhn522483tmn8n5v2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.156364345285-sq3lg3tpqfn2s47qhn522483tmn8n5v2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAvvTC9EK6fR0veuq3Td0keP_ebM_pb3Wc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>156364345285</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>m.p.finalmoviles</string>
+	<key>PROJECT_ID</key>
+	<string>movilesfinal-98b01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>movilesfinal-98b01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:156364345285:ios:da23b8c27322900b5605ac</string>
+</dict>
+</plist>

@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "156364345285",
+    "project_id": "movilesfinal-98b01",
+    "storage_bucket": "movilesfinal-98b01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156364345285:android:01cf9075fef4a4955605ac",
+        "android_client_info": {
+          "package_name": "m.p.finalmoviles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156364345285-12bhs9jlae1hkgmdoq2e6ibovdc7kduh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6VwkmHQDRcbwUwvwOl1Xlz1n5KKa2S5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156364345285-12bhs9jlae1hkgmdoq2e6ibovdc7kduh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156364345285-ee6pru0idgoavbptogn8u9gjdci5fnu4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "m.p.movilf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156364345285:android:d77bf0495f3562995605ac",
+        "android_client_info": {
+          "package_name": "m.p.movilf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156364345285-12bhs9jlae1hkgmdoq2e6ibovdc7kduh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6VwkmHQDRcbwUwvwOl1Xlz1n5KKa2S5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156364345285-12bhs9jlae1hkgmdoq2e6ibovdc7kduh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156364345285-ee6pru0idgoavbptogn8u9gjdci5fnu4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "m.p.movilf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156364345285:android:f17fef20031e2ef25605ac",
+        "android_client_info": {
+          "package_name": "moviles.final.movilesversionfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156364345285-12bhs9jlae1hkgmdoq2e6ibovdc7kduh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6VwkmHQDRcbwUwvwOl1Xlz1n5KKa2S5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156364345285-12bhs9jlae1hkgmdoq2e6ibovdc7kduh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "156364345285-ee6pru0idgoavbptogn8u9gjdci5fnu4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "m.p.movilf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
