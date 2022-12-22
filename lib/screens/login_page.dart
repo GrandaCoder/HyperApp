@@ -1,3 +1,4 @@
+import 'package:practica_flutter/componentes/square_tile.dart';
 import 'package:flutter/material.dart';
 
 class LoginPage extends StatefulWidget {
@@ -24,7 +25,6 @@ class _LoginPageState extends State<LoginPage> {
         );
       },
     );
-
     Navigator.pop(context);
   }
 
@@ -73,8 +73,6 @@ class _LoginPageState extends State<LoginPage> {
 
               const SizedBox(height: 25),
 
-              const SizedBox(height: 30),
-
               //continua con..
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 25.0),
@@ -104,6 +102,16 @@ class _LoginPageState extends State<LoginPage> {
               ),
 
               const SizedBox(height: 20),
+
+              // google
+              Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: const [
+                  //google button
+                  SquareTile(imagePath: 'lib/images/google.png'),
+                  SizedBox(width: 25),
+                ],
+              ),
 
               const SizedBox(height: 20),
 
